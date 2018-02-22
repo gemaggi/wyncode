@@ -1,1 +1,1 @@
-alert('Hello world')
+alert("This is the final solution")
